@@ -27,7 +27,7 @@ A simple web app to calculate the tip amount based on the bill and tip percentag
 
 ## Live Demo
 
-https://nill98.github.io/tip-calculator
+https://nill98.github.io/Project-tip-calculator
 
 ## How to Run Locally
 
