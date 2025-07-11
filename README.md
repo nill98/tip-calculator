@@ -31,7 +31,7 @@ https://nill98.github.io/Project-tip-calculator
 
 ## How to Run Locally
 
-1. Clone the repo:
+Clone the repo:
 
 ```bash
-git clone https://github.com/nill98/tip-calculator.git
+git clone https://github.com/nill98/Project-tip-calculator.git
